@@ -1,6 +1,6 @@
 # Personal AI Agent Chatbot
 
-![Chatbot UI]([assets/chatbot-img.png](https://github.com/Hrsh-Sidhpuria/AI-Agent-Chatbot/blob/main/AI%20Agent.jpg?raw=true))
+![Chatbot UI](https://github.com/Hrsh-Sidhpuria/AI-Agent-Chatbot/blob/main/AI%20Agent.jpg?raw=true)
 
 Welcome to the **Personal AI Agent Chatbot** project! This repository contains a fully interactive AI chatbot built using HTML, CSS, and JavaScript, designed to provide a seamless and engaging user experience.
 
