@@ -58,7 +58,7 @@ Simply open `Index.html` in your preferred web browser to view and interact with
 
 ## 🖼️ Chatbot Preview
 
-![Chatbot Preview](ahttps://github.com/Hrsh-Sidhpuria/AI-Agent-Chatbot/blob/main/AI%20Agent.jpg?raw=true)
+![Chatbot Preview](https://github.com/Hrsh-Sidhpuria/AI-Agent-Chatbot/blob/main/AI%20Agent%20image.jpg?raw=true)
 
 ---
 
